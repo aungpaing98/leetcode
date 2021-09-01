@@ -12,4 +12,5 @@ Coming Soon ...
 
 ### Array
 
-[Two Sum](./solutions/1.TwoSum/TwoSum.md)
+- [Two Sum](./solutions/1.TwoSum/README.md)
+- [Three Sum](./solutions/15.3Sums/README.md)
